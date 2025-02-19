@@ -1,0 +1,4 @@
+name: Reports
+version: '1.0-SNAPSHOT'
+main: com.github.hanielcota.reports.ReportsPlugin
+api-version: '1.20'
